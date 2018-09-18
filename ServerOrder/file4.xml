@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Present>
+    <id>7</id>
+    <sweetnessList>
+        <sweetness>
+            <idSweetnes>1</idSweetnes>
+            <taste>1</taste>
+            <mass>1223.3</mass>
+            <price>122223.42</price>
+            <nameProdyck>hh</nameProdyck>
+            <nameTypeSweetness>Icicle</nameTypeSweetness>
+        </sweetness>
+    </sweetnessList>
+    <sumMass>1223.3</sumMass>
+</Present>
